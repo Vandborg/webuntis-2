@@ -24,7 +24,7 @@ public class DayViewListFragment extends ListFragment {
 	private Boolean refreshThreadRun = true;
 	private UpdateDatabase task = null; 
 	ArrayList<ScheduleElement> ScheduleElements = new ArrayList<ScheduleElement>();
-	
+	//comment test
 	
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {
