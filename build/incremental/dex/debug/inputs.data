@@ -1,0 +1,24 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372849069000 5979 05914990e111c141d4951267d1fda2ab046d41cc /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/WebUntisDataSource.class
+1372849069000 385 ce40c5004fe6369a7f2a6a71b688d1c307232a21 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$attr.class
+1372849069000 433 81fffe9f5a9a7ba7a89f0a63682141350f951d05 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$menu.class
+1372849069000 549 5238eb8e9724bf2f3c0ab1a39ab2553b114446a0 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$string.class
+1372849069000 1042 f60b798e95c3c5d0da43e86dd70b5a87a4ced6ff /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/DayViewListFragment$2.class
+1372849069000 827 a4a45951f91c6b8631efe4001704caf05d5f7f32 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R.class
+1365645103000 293672 872693211fd68d1c4e116cf90021603207725e19 /home/vandborg/workspace/WebUntis/libs/jsoup-1.7.2.jar
+1372848151000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/vandborg/workspace/WebUntis/libs/android-support-v4.jar
+1372849069000 2783 6275303bd7c3459df5d98e3563249ec7f43948a7 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/ScheduleElement.class
+1372849069000 481 8a075fab35255efb52738148680c479722452788 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$id.class
+1372849069000 2327 327ead58af47e0e33848d700ee93f43c2bb8895a /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/WebUntisSQLiteHelper.class
+1372849069000 5180 29cc6ea81267ddd769dc18b3d64c35cb28ed1611 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/DayViewListFragment.class
+1372849069000 4498 8eca3343829461c3c869977530457510a4403742 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/Scraper.class
+1372849069000 506 448649e3e5a0ccbb9fe8444ba079af6d7b1a896a /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$dimen.class
+1372849069000 375 e7e3c354ff96e110d7c28a014eccbccb39e4da63 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/BuildConfig.class
+1372849069000 866 725eeee5783f41dddf136df634c0e11671c1a077 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/MainActivity.class
+1372849069000 452 0b306b6d2fcf374e55a428c16035eb0ecc035292 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$drawable.class
+1372849069000 1961 150a8470fa9e3ace454f08250ae1122f6a60d63c /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/DayViewListFragment$1.class
+1372849069000 448 0671d3122bff20ac0bd4f57ca988abe51c597b6c /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$layout.class
+1372849069000 3624 4e92f94cf1e20ba880de0a7a3013e34f3aced64e /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/UpdateDatabase.class
+1372849069000 476 d992ccf710170e793c7fc4a704906cde89b756a6 /home/vandborg/workspace/WebUntis/build/classes/debug/ucn/datamatiker/vandborg/webuntis/R$style.class

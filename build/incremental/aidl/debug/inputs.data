@@ -1,0 +1,10 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1365645103000 2724 0481c8ab7c3738644ee08a9ee0555bbe568abcb9 /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/DayViewListFragment.java
+1365645103000 1911 9aab63f4e4d6eff7b77d8bae988337778233bf5b /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/UpdateDatabase.java
+1365645103000 1928 be9ea1d7797ad214e31e4f0fbe2133ad22e1667b /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/ScheduleElement.java
+1365645103000 4652 7140f9711379aa9334deebf95c7367a8807788d5 /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/WebUntisDataSource.java
+1365645103000 553 52782035159a449c8e25d1de29a02d3ad7a5fdb6 /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/MainActivity.java
+1365645103000 1718 13525cb2b22b9bf7a136b6c0310c791f09b8f421 /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/WebUntisSQLiteHelper.java
+1365645103000 3205 098d7409dc7b8d73f7ae61a5597d6d0f3f359454 /home/vandborg/workspace/WebUntis/src/ucn/datamatiker/vandborg/webuntis/Scraper.java
